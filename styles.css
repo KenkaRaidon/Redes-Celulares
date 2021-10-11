@@ -20,6 +20,14 @@ main > h1 {
   font-size: 3.5em;
 }
 
+main > h2 {
+  text-align: center;
+}
+
+main > h3 {
+  text-align: center;
+}
+
 .check-list {
   margin: 0;
   padding-left: 1.2rem;
