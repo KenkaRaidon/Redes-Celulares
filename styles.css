@@ -54,3 +54,10 @@ main > h3 {
     transform-origin: bottom left;
     transform: rotate(45deg);
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
